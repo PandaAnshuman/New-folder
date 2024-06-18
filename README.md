@@ -1,4 +1,4 @@
-# Recipe Finder
+# Recipe Finder: find your delicious receipe
 
 This is a simple web application that allows users to find recipes based on ingredients using the Edamam API.
 
